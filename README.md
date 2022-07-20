@@ -2,4 +2,4 @@
 
 Gut microbiota analysis of Non Human Primates
 
-* [ITS1 Metabarcoding](ITS1-Survey)
+* [ITS1 Metabarcoding](ITS1-survey)
